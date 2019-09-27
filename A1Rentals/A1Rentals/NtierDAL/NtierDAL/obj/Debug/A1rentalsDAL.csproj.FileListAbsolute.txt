@@ -1,0 +1,16 @@
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\N-Teir\NtierDAL\NtierDAL\bin\Debug\A1Rentals.DAL.dll.config
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\N-Teir\NtierDAL\NtierDAL\bin\Debug\A1Rentals.DAL.dll
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\N-Teir\NtierDAL\NtierDAL\bin\Debug\A1Rentals.DAL.pdb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\N-Teir\NtierDAL\NtierDAL\bin\Debug\A1Rentals.Types.pdb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\N-Teir\NtierDAL\NtierDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\N-Teir\NtierDAL\NtierDAL\obj\Debug\A1Rentals.DAL.dll
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\N-Teir\NtierDAL\NtierDAL\obj\Debug\A1Rentals.DAL.pdb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\N-Teir\NtierDAL\NtierDAL\bin\Debug\A1Rentals.Types.dll
+C:\Users\Ben\Documents\Year 2\Term 4\N-teir\N-Tier Project\NtierDAL\NtierDAL\bin\Debug\A1Rentals.DAL.dll.config
+C:\Users\Ben\Documents\Year 2\Term 4\N-teir\N-Tier Project\NtierDAL\NtierDAL\bin\Debug\A1Rentals.DAL.dll
+C:\Users\Ben\Documents\Year 2\Term 4\N-teir\N-Tier Project\NtierDAL\NtierDAL\bin\Debug\A1Rentals.DAL.pdb
+C:\Users\Ben\Documents\Year 2\Term 4\N-teir\N-Tier Project\NtierDAL\NtierDAL\bin\Debug\A1Rentals.Types.dll
+C:\Users\Ben\Documents\Year 2\Term 4\N-teir\N-Tier Project\NtierDAL\NtierDAL\bin\Debug\A1Rentals.Types.pdb
+C:\Users\Ben\Documents\Year 2\Term 4\N-teir\N-Tier Project\NtierDAL\NtierDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ben\Documents\Year 2\Term 4\N-teir\N-Tier Project\NtierDAL\NtierDAL\obj\Debug\A1Rentals.DAL.dll
+C:\Users\Ben\Documents\Year 2\Term 4\N-teir\N-Tier Project\NtierDAL\NtierDAL\obj\Debug\A1Rentals.DAL.pdb

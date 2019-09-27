@@ -1,0 +1,10 @@
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\N-Teir\A1Types\A1Types\bin\Debug\A1Rentals.Types.dll
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\N-Teir\A1Types\A1Types\bin\Debug\A1Rentals.Types.pdb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\N-Teir\A1Types\A1Types\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\N-Teir\A1Types\A1Types\obj\Debug\A1Rentals.Types.dll
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\N-Teir\A1Types\A1Types\obj\Debug\A1Rentals.Types.pdb
+C:\Users\Ben\Documents\Year 2\Term 4\N-teir\N-Tier Project\A1Types\A1Types\bin\Debug\A1Rentals.Types.dll
+C:\Users\Ben\Documents\Year 2\Term 4\N-teir\N-Tier Project\A1Types\A1Types\bin\Debug\A1Rentals.Types.pdb
+C:\Users\Ben\Documents\Year 2\Term 4\N-teir\N-Tier Project\A1Types\A1Types\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ben\Documents\Year 2\Term 4\N-teir\N-Tier Project\A1Types\A1Types\obj\Debug\A1Rentals.Types.dll
+C:\Users\Ben\Documents\Year 2\Term 4\N-teir\N-Tier Project\A1Types\A1Types\obj\Debug\A1Rentals.Types.pdb

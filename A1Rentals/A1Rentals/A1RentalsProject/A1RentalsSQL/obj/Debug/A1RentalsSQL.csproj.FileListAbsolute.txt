@@ -1,0 +1,12 @@
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\N-Teir\A1RentalsProject\A1RentalsSQL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ben\Documents\Year 2\Term 4\N-teir\N-Tier Project\A1RentalsProject\A1RentalsSQL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ben\Documents\Year 2\Term 4\N-teir\N-Tier Project\A1RentalsProject\A1RentalsSQL\bin\Debug\A1Rentals.SQL.dll
+C:\Users\Ben\Documents\Year 2\Term 4\N-teir\N-Tier Project\A1RentalsProject\A1RentalsSQL\bin\Debug\A1Rentals.SQL.pdb
+C:\Users\Ben\Documents\Year 2\Term 4\N-teir\N-Tier Project\A1RentalsProject\A1RentalsSQL\bin\Debug\A1Rentals.BOL.dll
+C:\Users\Ben\Documents\Year 2\Term 4\N-teir\N-Tier Project\A1RentalsProject\A1RentalsSQL\bin\Debug\A1Rentals.DAL.dll
+C:\Users\Ben\Documents\Year 2\Term 4\N-teir\N-Tier Project\A1RentalsProject\A1RentalsSQL\bin\Debug\A1Rentals.Types.dll
+C:\Users\Ben\Documents\Year 2\Term 4\N-teir\N-Tier Project\A1RentalsProject\A1RentalsSQL\bin\Debug\A1Rentals.Types.pdb
+C:\Users\Ben\Documents\Year 2\Term 4\N-teir\N-Tier Project\A1RentalsProject\A1RentalsSQL\bin\Debug\A1Rentals.DAL.pdb
+C:\Users\Ben\Documents\Year 2\Term 4\N-teir\N-Tier Project\A1RentalsProject\A1RentalsSQL\bin\Debug\A1Rentals.BOL.pdb
+C:\Users\Ben\Documents\Year 2\Term 4\N-teir\N-Tier Project\A1RentalsProject\A1RentalsSQL\obj\Debug\A1Rentals.SQL.dll
+C:\Users\Ben\Documents\Year 2\Term 4\N-teir\N-Tier Project\A1RentalsProject\A1RentalsSQL\obj\Debug\A1Rentals.SQL.pdb
